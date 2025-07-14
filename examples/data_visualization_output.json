@@ -1,0 +1,3031 @@
+{
+  "id": "bf543b6a-5446-400e-b67d-c5c7419c9f60",
+  "canvas": {
+    "width": 1920.0,
+    "height": 1080.0,
+    "units": "px"
+  },
+  "background": {
+    "color": null,
+    "transparent": true,
+    "image_url": null,
+    "image_opacity": 1.0
+  },
+  "layer_manager": {
+    "root_group": {
+      "id": "c3807648-adbf-4b35-a5c0-0a87efeb9bae",
+      "name": "Root",
+      "children": [
+        {
+          "id": "51ecea3b-3473-472f-a003-8839533d4e31",
+          "name": "Layer 1",
+          "shapes": [],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "c3807648-adbf-4b35-a5c0-0a87efeb9bae",
+          "metadata": {}
+        },
+        {
+          "id": "b5812a6d-8e41-414a-a50b-7309042afc5a",
+          "name": "Background",
+          "shapes": [
+            {
+              "id": "3276b0b3-da32-4121-a0d5-4c6b3462dda3",
+              "type": "rectangle",
+              "geometry": {
+                "width": 1920.0,
+                "height": 1080.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 248,
+                    "g": 249,
+                    "b": 250
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 0.0,
+                "y": 0.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Background"
+            },
+            {
+              "id": "00c44323-dc71-49c9-9428-e7a2c880f2e8",
+              "type": "rectangle",
+              "geometry": {
+                "width": 400,
+                "height": 300
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 80.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Chart Background"
+            },
+            {
+              "id": "2b427f27-3ef9-4f47-ac7e-4b389bccac8c",
+              "type": "rectangle",
+              "geometry": {
+                "width": 1920.0,
+                "height": 1080.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 248,
+                    "g": 249,
+                    "b": 250
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 0.0,
+                "y": 0.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Background"
+            },
+            {
+              "id": "edc58cd7-d604-403d-b280-086341e447a1",
+              "type": "rectangle",
+              "geometry": {
+                "width": 400,
+                "height": 300
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Chart Background"
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "c3807648-adbf-4b35-a5c0-0a87efeb9bae",
+          "metadata": {}
+        },
+        {
+          "id": "c7c454bf-67f6-4c2b-bfbb-fec0a033cb8f",
+          "name": "Bar Chart",
+          "shapes": [
+            {
+              "id": "9c26193a-2c4c-4a5a-8142-180fbb1ba4fe",
+              "type": "rectangle",
+              "geometry": {
+                "width": 45.71428571428572,
+                "height": 136.5168539325843,
+                "corner_radius": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 59,
+                    "g": 130,
+                    "b": 246
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 59,
+                    "g": 130,
+                    "b": 246
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 85.71428571428572,
+                "y": 313.4831460674157,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Bar 1 (45)"
+            },
+            {
+              "id": "35bfc2b8-a993-4063-9426-2f99b6f77a4d",
+              "type": "rectangle",
+              "geometry": {
+                "width": 20.0,
+                "height": 3.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 98.57142857142858,
+                "y": 303.4831460674157,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label 45"
+            },
+            {
+              "id": "9d178c2f-4de9-429d-b502-e6d2d00ac160",
+              "type": "rectangle",
+              "geometry": {
+                "width": 45.71428571428572,
+                "height": 203.25842696629212,
+                "corner_radius": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 142.85714285714286,
+                "y": 246.74157303370788,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Bar 2 (67)"
+            },
+            {
+              "id": "c593d73d-a748-462b-92d9-aeca93375702",
+              "type": "rectangle",
+              "geometry": {
+                "width": 20.0,
+                "height": 3.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 155.71428571428572,
+                "y": 236.74157303370788,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label 67"
+            },
+            {
+              "id": "1482c06a-c8d4-44d4-907b-46cf7b03fdad",
+              "type": "rectangle",
+              "geometry": {
+                "width": 45.71428571428572,
+                "height": 69.77528089887642,
+                "corner_radius": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 245,
+                    "g": 158,
+                    "b": 11
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 245,
+                    "g": 158,
+                    "b": 11
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 200.0,
+                "y": 380.2247191011236,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Bar 3 (23)"
+            },
+            {
+              "id": "dcf9cfe9-aa19-496d-8b3b-da057504a7e6",
+              "type": "rectangle",
+              "geometry": {
+                "width": 20.0,
+                "height": 3.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 212.85714285714286,
+                "y": 370.2247191011236,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label 23"
+            },
+            {
+              "id": "0f53042d-02e6-4181-a731-1f2975db0dfa",
+              "type": "rectangle",
+              "geometry": {
+                "width": 45.71428571428572,
+                "height": 270.0,
+                "corner_radius": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 239,
+                    "g": 68,
+                    "b": 68
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 239,
+                    "g": 68,
+                    "b": 68
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 257.14285714285717,
+                "y": 180.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Bar 4 (89)"
+            },
+            {
+              "id": "e5ee6eaf-81f2-427a-826a-8912b05db17f",
+              "type": "rectangle",
+              "geometry": {
+                "width": 20.0,
+                "height": 3.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 270.0,
+                "y": 170.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label 89"
+            },
+            {
+              "id": "5d0e4aaa-6fd3-493b-bd80-1a726c903e31",
+              "type": "rectangle",
+              "geometry": {
+                "width": 45.71428571428572,
+                "height": 169.88764044943818,
+                "corner_radius": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 59,
+                    "g": 130,
+                    "b": 246
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 59,
+                    "g": 130,
+                    "b": 246
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 314.2857142857143,
+                "y": 280.1123595505618,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Bar 5 (56)"
+            },
+            {
+              "id": "4aef6b4c-9fe0-4e8c-a789-b8976f7d192f",
+              "type": "rectangle",
+              "geometry": {
+                "width": 20.0,
+                "height": 3.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 327.1428571428571,
+                "y": 270.1123595505618,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label 56"
+            },
+            {
+              "id": "005b1f1d-b84c-4001-8f91-e16d042d3b76",
+              "type": "rectangle",
+              "geometry": {
+                "width": 45.71428571428572,
+                "height": 236.6292134831461,
+                "corner_radius": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 371.42857142857144,
+                "y": 213.3707865168539,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Bar 6 (78)"
+            },
+            {
+              "id": "1fbfd3d8-6e6e-4550-a317-407d29e594e7",
+              "type": "rectangle",
+              "geometry": {
+                "width": 20.0,
+                "height": 3.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 384.28571428571433,
+                "y": 203.3707865168539,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label 78"
+            },
+            {
+              "id": "30ce466a-a389-49e3-a174-0f1347a5ee55",
+              "type": "rectangle",
+              "geometry": {
+                "width": 45.71428571428572,
+                "height": 103.14606741573033,
+                "corner_radius": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 245,
+                    "g": 158,
+                    "b": 11
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 245,
+                    "g": 158,
+                    "b": 11
+                  },
+                  "width": 1.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 428.5714285714286,
+                "y": 346.85393258426967,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Bar 7 (34)"
+            },
+            {
+              "id": "4cf784c9-549f-4ddc-976e-2e1d320a4b4b",
+              "type": "rectangle",
+              "geometry": {
+                "width": 20.0,
+                "height": 3.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 441.42857142857144,
+                "y": 336.85393258426967,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label 34"
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "c3807648-adbf-4b35-a5c0-0a87efeb9bae",
+          "metadata": {}
+        },
+        {
+          "id": "f78035b1-6b50-442e-8873-ba0106c6804e",
+          "name": "Line Chart",
+          "shapes": [
+            {
+              "id": "455b6ed0-540d-4079-8657-ed5e9a9d1370",
+              "type": "path",
+              "geometry": {
+                "path_data": "M 0.0,300.0 L 66.66666666666666,226.36363636363637 L 133.33333333333331,275.45454545454544 L 200.0,152.72727272727272 L 266.66666666666663,177.27272727272728 L 333.33333333333337,103.63636363636363 L 400.0,30.0"
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "width": 3.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Performance Line"
+            },
+            {
+              "id": "45b9f640-8446-4a59-9062-20a8820f074d",
+              "type": "circle",
+              "geometry": {
+                "radius": 5.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 450.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Point 1 (30)"
+            },
+            {
+              "id": "e0a77ce5-243d-47f3-9424-8f11c791ddec",
+              "type": "circle",
+              "geometry": {
+                "radius": 5.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 646.6666666666666,
+                "y": 376.3636363636364,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Point 2 (45)"
+            },
+            {
+              "id": "8a26b342-7a0a-48d0-96a1-043453b0e276",
+              "type": "circle",
+              "geometry": {
+                "radius": 5.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 713.3333333333333,
+                "y": 425.45454545454544,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Point 3 (35)"
+            },
+            {
+              "id": "ffeefb09-6675-49df-aa40-e3fccfd3d2cc",
+              "type": "circle",
+              "geometry": {
+                "radius": 5.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 780.0,
+                "y": 302.72727272727275,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Point 4 (60)"
+            },
+            {
+              "id": "68466be1-368f-4b67-ab69-312b986ea2a0",
+              "type": "circle",
+              "geometry": {
+                "radius": 5.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 846.6666666666666,
+                "y": 327.27272727272725,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Point 5 (55)"
+            },
+            {
+              "id": "49db39b6-caa8-4383-8cda-9cfd968c95ee",
+              "type": "circle",
+              "geometry": {
+                "radius": 5.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 913.3333333333334,
+                "y": 253.63636363636363,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Point 6 (70)"
+            },
+            {
+              "id": "0bfc7caa-02cd-4dda-b070-6e16584573e9",
+              "type": "circle",
+              "geometry": {
+                "radius": 5.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 980.0,
+                "y": 180.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Point 7 (85)"
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "c3807648-adbf-4b35-a5c0-0a87efeb9bae",
+          "metadata": {}
+        },
+        {
+          "id": "3abb22aa-16c3-4162-9edb-bc4b16e76712",
+          "name": "Pie Chart",
+          "shapes": [
+            {
+              "id": "e777554a-297f-4d45-84b9-05cd3beb1231",
+              "type": "polygon",
+              "geometry": {
+                "points": [
+                  [
+                    0.0,
+                    0.0
+                  ],
+                  [
+                    120.0,
+                    0.0
+                  ],
+                  [
+                    -70.53423027509676,
+                    97.0820393249937
+                  ]
+                ]
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 59,
+                    "g": 130,
+                    "b": 246
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 1300.0,
+                "y": 300.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Slice Product A (35%)"
+            },
+            {
+              "id": "ebd889c5-791e-4879-8bb8-c5c429ca6ab3",
+              "type": "circle",
+              "geometry": {
+                "radius": 8.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 59,
+                    "g": 130,
+                    "b": 246
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 1368.098574960932,
+                "y": 433.6509786282552,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label Product A"
+            },
+            {
+              "id": "16320d56-9953-418a-bdac-633eda0b858b",
+              "type": "polygon",
+              "geometry": {
+                "points": [
+                  [
+                    0.0,
+                    0.0
+                  ],
+                  [
+                    -70.53423027509676,
+                    97.0820393249937
+                  ],
+                  [
+                    -97.0820393249937,
+                    -70.53423027509676
+                  ]
+                ]
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 1300.0,
+                "y": 300.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Slice Product B (25%)"
+            },
+            {
+              "id": "0230499b-76c7-42bb-9d55-11e8e8d6604a",
+              "type": "circle",
+              "geometry": {
+                "radius": 8.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 16,
+                    "g": 185,
+                    "b": 129
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 1151.8467489107293,
+                "y": 323.46516975603464,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label Product B"
+            },
+            {
+              "id": "781e4f94-b7d0-4ded-8866-9327e4f6bf5e",
+              "type": "polygon",
+              "geometry": {
+                "points": [
+                  [
+                    0.0,
+                    0.0
+                  ],
+                  [
+                    -97.0820393249937,
+                    -70.53423027509676
+                  ],
+                  [
+                    37.082039324993666,
+                    -114.12678195541844
+                  ]
+                ]
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 245,
+                    "g": 158,
+                    "b": 11
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 1300.0,
+                "y": 300.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Slice Product C (20%)"
+            },
+            {
+              "id": "8a96b576-0f3a-44de-ab52-99b38bb510bc",
+              "type": "circle",
+              "geometry": {
+                "radius": 8.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 245,
+                    "g": 158,
+                    "b": 11
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 1253.647450843758,
+                "y": 157.34152255572698,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label Product C"
+            },
+            {
+              "id": "041fe189-5d98-4edc-bc1c-60311ec92821",
+              "type": "polygon",
+              "geometry": {
+                "points": [
+                  [
+                    0.0,
+                    0.0
+                  ],
+                  [
+                    37.082039324993666,
+                    -114.12678195541844
+                  ],
+                  [
+                    114.12678195541842,
+                    -37.082039324993715
+                  ]
+                ]
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 239,
+                    "g": 68,
+                    "b": 68
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 1300.0,
+                "y": 300.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Slice Product D (15%)"
+            },
+            {
+              "id": "38c43238-c8cf-4f52-a36f-2c741af69d99",
+              "type": "circle",
+              "geometry": {
+                "radius": 8.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 239,
+                    "g": 68,
+                    "b": 68
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 1406.066017177982,
+                "y": 193.93398282201787,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label Product D"
+            },
+            {
+              "id": "08645eab-e5b6-4dc6-9b3c-32fafdfa99f9",
+              "type": "polygon",
+              "geometry": {
+                "points": [
+                  [
+                    0.0,
+                    0.0
+                  ],
+                  [
+                    114.12678195541842,
+                    -37.082039324993715
+                  ],
+                  [
+                    120.0,
+                    -2.939152317953648e-14
+                  ]
+                ]
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 255,
+                    "g": 255,
+                    "b": 255
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 1300.0,
+                "y": 300.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Slice Others (5%)"
+            },
+            {
+              "id": "646d1dbf-ae37-49fd-ab90-129bf59efc75",
+              "type": "circle",
+              "geometry": {
+                "radius": 8.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 1448.1532510892707,
+                "y": 276.5348302439653,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Label Others"
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "c3807648-adbf-4b35-a5c0-0a87efeb9bae",
+          "metadata": {}
+        },
+        {
+          "id": "377160cb-ccc7-4fde-a354-c03f82d1e539",
+          "name": "Labels & Axes",
+          "shapes": [
+            {
+              "id": "b811e192-5388-49e7-a429-f1b6723e664f",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 80.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 0"
+            },
+            {
+              "id": "fd36a05c-c170-4b69-9332-208c88dd983d",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 80.0,
+                "y": 210.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 1"
+            },
+            {
+              "id": "dd297adc-ab50-41ce-a97b-e76a1fd28dff",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 80.0,
+                "y": 270.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 2"
+            },
+            {
+              "id": "353b86c8-e2d3-42f4-b9e2-bcc5ed258db4",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 80.0,
+                "y": 330.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 3"
+            },
+            {
+              "id": "d3465f93-c117-49e8-8859-6f95a197bbc8",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 80.0,
+                "y": 390.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 4"
+            },
+            {
+              "id": "0f8146bd-6ba9-43f0-b60f-3d667e8b6995",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 80.0,
+                "y": 450.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 5"
+            },
+            {
+              "id": "40da0cf6-9352-4d7d-930e-d8fb991d8f98",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 80.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 0"
+            },
+            {
+              "id": "bc83d081-5e5d-4385-b265-a14a430843b8",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 137.14285714285714,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 1"
+            },
+            {
+              "id": "417c70a3-c23b-415a-97f0-9d10a1108198",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 194.28571428571428,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 2"
+            },
+            {
+              "id": "6fe955f4-2094-49eb-8ecb-38bad4dfc782",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 251.42857142857144,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 3"
+            },
+            {
+              "id": "fa5b6460-cc23-4512-9202-077d07114ae7",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 308.57142857142856,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 4"
+            },
+            {
+              "id": "d66e9366-15eb-47ff-9858-4526c1d2c210",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 365.7142857142857,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 5"
+            },
+            {
+              "id": "52390d36-fd56-4200-94d7-63be48151822",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 422.8571428571429,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 6"
+            },
+            {
+              "id": "03fc29fd-1781-43f8-b331-7a627d82239d",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 480.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 7"
+            },
+            {
+              "id": "6d9b9659-d9e2-45ee-b7f6-b773ed5b6cb3",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 0"
+            },
+            {
+              "id": "165f65dd-3485-4980-92cd-6cefea5f28c3",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 210.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 1"
+            },
+            {
+              "id": "3ef09717-17d4-4312-a884-d448c0e91196",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 270.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 2"
+            },
+            {
+              "id": "ca95b778-8c41-4e01-a624-194e0b652416",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 330.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 3"
+            },
+            {
+              "id": "938147ae-9c7f-4a7f-a7ce-ce937306bd18",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 390.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 4"
+            },
+            {
+              "id": "cda52f3c-bf03-43e1-987a-6b815cde9c15",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 400,
+                "y2": 0.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 450.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid H 5"
+            },
+            {
+              "id": "deb80714-c01d-43a5-88a6-03e0ea5f9f9e",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 580.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 0"
+            },
+            {
+              "id": "ebdf7de3-0c32-4f30-8f3b-87d19431f1aa",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 637.1428571428571,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 1"
+            },
+            {
+              "id": "ebe40934-df8c-4f22-ba1b-543561bba86f",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 694.2857142857143,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 2"
+            },
+            {
+              "id": "82fb9135-6af5-4d96-a6ba-f171d0adaaee",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 751.4285714285714,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 3"
+            },
+            {
+              "id": "aee04fdb-10b2-4d2c-9606-c2b258f1a7e5",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 808.5714285714286,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 4"
+            },
+            {
+              "id": "34d59b64-fdac-422a-a09b-cbddf82f4f8d",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 865.7142857142858,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 5"
+            },
+            {
+              "id": "f3af971c-9f80-4d42-9578-1df0f495c8be",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 922.8571428571429,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 6"
+            },
+            {
+              "id": "4ab1f2d5-b4c4-4046-8118-b3665e55ff9a",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 0.0,
+                "y2": 300
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 229,
+                    "g": 231,
+                    "b": 235
+                  },
+                  "width": 0.5,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 980.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Grid V 7"
+            },
+            {
+              "id": "7f90bd0a-1d4e-4291-a35a-c4eae4d8b561",
+              "type": "rectangle",
+              "geometry": {
+                "width": 300.0,
+                "height": 8.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 810.0,
+                "y": 50.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Main Title: Analytics Dashboard"
+            },
+            {
+              "id": "a22fe28b-8a2c-4186-836c-a4687a76f828",
+              "type": "rectangle",
+              "geometry": {
+                "width": 120.0,
+                "height": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.7
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 100.0,
+                "y": 120.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Bar Chart: Monthly Sales"
+            },
+            {
+              "id": "aa85caa1-b3a6-4e8f-a69b-653e760a0204",
+              "type": "rectangle",
+              "geometry": {
+                "width": 140.0,
+                "height": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.7
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 600.0,
+                "y": 120.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Line Chart: Performance"
+            },
+            {
+              "id": "d68911fb-e84e-4547-87e0-6660173811af",
+              "type": "rectangle",
+              "geometry": {
+                "width": 110.0,
+                "height": 4.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 55,
+                    "g": 65,
+                    "b": 81
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.7
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 1200.0,
+                "y": 120.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Pie Chart: Market Share"
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "c3807648-adbf-4b35-a5c0-0a87efeb9bae",
+          "metadata": {}
+        }
+      ],
+      "z_index": 0,
+      "visible": true,
+      "locked": false,
+      "expanded": true,
+      "opacity": 1.0,
+      "blend_mode": "normal",
+      "parent_id": null,
+      "metadata": {}
+    },
+    "active_layer_id": "51ecea3b-3473-472f-a003-8839533d4e31"
+  },
+  "metadata": {
+    "title": "Data Visualization Dashboard",
+    "description": null,
+    "author": "Analytics Team",
+    "keywords": [],
+    "created_at": "2025-07-14T10:32:50.294784",
+    "modified_at": "2025-07-14T10:32:50.294963",
+    "version": "1.0",
+    "app_version": "0.1.0",
+    "custom_properties": {}
+  },
+  "view_settings": {
+    "zoom_level": 1.0,
+    "pan_x": 0.0,
+    "pan_y": 0.0,
+    "show_grid": false,
+    "show_rulers": true,
+    "show_guides": true,
+    "snap_to_grid": false,
+    "snap_to_guides": true,
+    "grid_size": 10.0,
+    "grid_color": {
+      "r": 200,
+      "g": 200,
+      "b": 200
+    }
+  },
+  "export_settings": {
+    "default_format": "svg",
+    "dpi": 96.0,
+    "quality": 0.9,
+    "include_metadata": true,
+    "transparent_background": true
+  }
+}

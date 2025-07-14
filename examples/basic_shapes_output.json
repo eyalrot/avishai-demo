@@ -1,0 +1,423 @@
+{
+  "id": "7edd35f3-fcbf-4d49-8914-bf779f5157eb",
+  "canvas": {
+    "width": 1920.0,
+    "height": 1080.0,
+    "units": "px"
+  },
+  "background": {
+    "color": null,
+    "transparent": true,
+    "image_url": null,
+    "image_opacity": 1.0
+  },
+  "layer_manager": {
+    "root_group": {
+      "id": "0d597636-f0f4-43c1-80ca-81bb1a7b04dd",
+      "name": "Root",
+      "children": [
+        {
+          "id": "9e9eece1-4252-49e7-9f8f-5bd806c791c0",
+          "name": "Layer 1",
+          "shapes": [],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "0d597636-f0f4-43c1-80ca-81bb1a7b04dd",
+          "metadata": {}
+        },
+        {
+          "id": "5f423665-b62c-499c-a820-7e20ff912d55",
+          "name": "Background",
+          "shapes": [
+            {
+              "id": "df460ba8-2f19-497d-a51c-318ee37f32cb",
+              "type": "rectangle",
+              "geometry": {
+                "width": 1920.0,
+                "height": 1080.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 248,
+                    "g": 249,
+                    "b": 250
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 0.0,
+                "y": 0.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Background"
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "0d597636-f0f4-43c1-80ca-81bb1a7b04dd",
+          "metadata": {}
+        },
+        {
+          "id": "2ebc5481-8846-4726-bee8-08424a449eb2",
+          "name": "Basic Shapes",
+          "shapes": [
+            {
+              "id": "d4e5b13b-2849-4f76-a6cd-72d82ca0d136",
+              "type": "rectangle",
+              "geometry": {
+                "width": 200.0,
+                "height": 120.0,
+                "corner_radius": 10.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 255,
+                    "g": 50,
+                    "b": 50
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.8
+                },
+                "stroke": {
+                  "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                  },
+                  "width": 3.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 100.0,
+                "y": 100.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Red Rectangle"
+            },
+            {
+              "id": "c5e1fa44-e197-45dc-b401-3d736ba794ed",
+              "type": "circle",
+              "geometry": {
+                "radius": 80.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 50,
+                    "g": 150,
+                    "b": 255
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.7
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 400.0,
+                "y": 150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Blue Circle"
+            },
+            {
+              "id": "19062d6b-0dab-4af5-8b9b-33aef1344a6c",
+              "type": "polygon",
+              "geometry": {
+                "points": [
+                  [
+                    0.0,
+                    120.0
+                  ],
+                  [
+                    100.0,
+                    120.0
+                  ],
+                  [
+                    50.0,
+                    20.0
+                  ]
+                ]
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 50,
+                    "g": 200,
+                    "b": 50
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 700.0,
+                "y": 100.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Green Triangle"
+            },
+            {
+              "id": "014a20bd-3a32-4afa-9f1f-733968c76111",
+              "type": "line",
+              "geometry": {
+                "x1": 0.0,
+                "y1": 0.0,
+                "x2": 600.0,
+                "y2": 100.0
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                  },
+                  "width": 5.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 100.0,
+                "y": 300.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Diagonal Line"
+            },
+            {
+              "id": "e8ca77e3-a522-4f17-80c2-d3edff637149",
+              "type": "ellipse",
+              "geometry": {
+                "rx": 120.0,
+                "ry": 60.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 255,
+                    "g": 200,
+                    "b": 50
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": {
+                  "color": {
+                    "r": 0,
+                    "g": 0,
+                    "b": 0
+                  },
+                  "width": 2.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 150.0,
+                "y": 450.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Yellow Ellipse"
+            },
+            {
+              "id": "0babcb8a-f745-49a6-9ddb-de4c649c4da4",
+              "type": "path",
+              "geometry": {
+                "path_data": "M 0,0 C 0,-50 50,-50 50,0 C 50,50 100,50 100,0 L 150,0"
+              },
+              "style": {
+                "fill": null,
+                "stroke": {
+                  "color": {
+                    "r": 150,
+                    "g": 50,
+                    "b": 150
+                  },
+                  "width": 4.0,
+                  "cap": "butt",
+                  "join": "miter",
+                  "miter_limit": 4.0,
+                  "dash_array": null,
+                  "dash_offset": 0.0,
+                  "opacity": 1.0
+                },
+                "effects": null
+              },
+              "transform": {
+                "x": 500.0,
+                "y": 400.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Purple Wave"
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "0d597636-f0f4-43c1-80ca-81bb1a7b04dd",
+          "metadata": {}
+        },
+        {
+          "id": "740be5b2-1fec-4da5-8a2b-a53d9aa3cd04",
+          "name": "Labels",
+          "shapes": [],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "0d597636-f0f4-43c1-80ca-81bb1a7b04dd",
+          "metadata": {}
+        }
+      ],
+      "z_index": 0,
+      "visible": true,
+      "locked": false,
+      "expanded": true,
+      "opacity": 1.0,
+      "blend_mode": "normal",
+      "parent_id": null,
+      "metadata": {}
+    },
+    "active_layer_id": "9e9eece1-4252-49e7-9f8f-5bd806c791c0"
+  },
+  "metadata": {
+    "title": "Basic Shapes Demo",
+    "description": null,
+    "author": "Drawing Library Example",
+    "keywords": [],
+    "created_at": "2025-07-14T10:31:43.151230",
+    "modified_at": "2025-07-14T10:31:43.151421",
+    "version": "1.0",
+    "app_version": "0.1.0",
+    "custom_properties": {}
+  },
+  "view_settings": {
+    "zoom_level": 1.0,
+    "pan_x": 0.0,
+    "pan_y": 0.0,
+    "show_grid": false,
+    "show_rulers": true,
+    "show_guides": true,
+    "snap_to_grid": false,
+    "snap_to_guides": true,
+    "grid_size": 10.0,
+    "grid_color": {
+      "r": 200,
+      "g": 200,
+      "b": 200
+    }
+  },
+  "export_settings": {
+    "default_format": "svg",
+    "dpi": 96.0,
+    "quality": 0.9,
+    "include_metadata": true,
+    "transparent_background": true
+  }
+}

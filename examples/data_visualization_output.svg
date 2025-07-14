@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.0" height="1080.0" viewBox="0 0 1920.0 1080.0">
+  <!-- Generated from: Data Visualization Dashboard -->
+  <defs />
+  <g id="layer-51ecea3b-3473-472f-a003-8839533d4e31" data-name="Layer 1" />
+  <g id="layer-b5812a6d-8e41-414a-a50b-7309042afc5a" data-name="Background">
+    <rect x="0" y="0" width="1920.0" height="1080.0" fill="rgb(248,249,250)" stroke="none" id="Background" />
+    <rect x="0" y="0" width="400" height="300" fill="rgb(255,255,255)" stroke="rgb(229,231,235)" stroke-width="1.0" transform="translate(80.0,150.0)" id="Chart_Background" />
+    <rect x="0" y="0" width="1920.0" height="1080.0" fill="rgb(248,249,250)" stroke="none" id="Background" />
+    <rect x="0" y="0" width="400" height="300" fill="rgb(255,255,255)" stroke="rgb(229,231,235)" stroke-width="1.0" transform="translate(580.0,150.0)" id="Chart_Background" />
+  </g>
+  <g id="layer-c7c454bf-67f6-4c2b-bfbb-fec0a033cb8f" data-name="Bar Chart">
+    <rect x="0" y="0" width="45.71428571428572" height="136.5168539325843" rx="4.0" ry="4.0" fill="rgb(59,130,246)" fill-opacity="0.8" stroke="rgb(59,130,246)" stroke-width="1.0" transform="translate(85.71428571428572,313.4831460674157)" id="Bar_1__45_" />
+    <rect x="0" y="0" width="20.0" height="3.0" fill="rgb(55,65,81)" stroke="none" transform="translate(98.57142857142858,303.4831460674157)" id="Label_45" />
+    <rect x="0" y="0" width="45.71428571428572" height="203.25842696629212" rx="4.0" ry="4.0" fill="rgb(16,185,129)" fill-opacity="0.8" stroke="rgb(16,185,129)" stroke-width="1.0" transform="translate(142.85714285714286,246.74157303370788)" id="Bar_2__67_" />
+    <rect x="0" y="0" width="20.0" height="3.0" fill="rgb(55,65,81)" stroke="none" transform="translate(155.71428571428572,236.74157303370788)" id="Label_67" />
+    <rect x="0" y="0" width="45.71428571428572" height="69.77528089887642" rx="4.0" ry="4.0" fill="rgb(245,158,11)" fill-opacity="0.8" stroke="rgb(245,158,11)" stroke-width="1.0" transform="translate(200.0,380.2247191011236)" id="Bar_3__23_" />
+    <rect x="0" y="0" width="20.0" height="3.0" fill="rgb(55,65,81)" stroke="none" transform="translate(212.85714285714286,370.2247191011236)" id="Label_23" />
+    <rect x="0" y="0" width="45.71428571428572" height="270.0" rx="4.0" ry="4.0" fill="rgb(239,68,68)" fill-opacity="0.8" stroke="rgb(239,68,68)" stroke-width="1.0" transform="translate(257.14285714285717,180.0)" id="Bar_4__89_" />
+    <rect x="0" y="0" width="20.0" height="3.0" fill="rgb(55,65,81)" stroke="none" transform="translate(270.0,170.0)" id="Label_89" />
+    <rect x="0" y="0" width="45.71428571428572" height="169.88764044943818" rx="4.0" ry="4.0" fill="rgb(59,130,246)" fill-opacity="0.8" stroke="rgb(59,130,246)" stroke-width="1.0" transform="translate(314.2857142857143,280.1123595505618)" id="Bar_5__56_" />
+    <rect x="0" y="0" width="20.0" height="3.0" fill="rgb(55,65,81)" stroke="none" transform="translate(327.1428571428571,270.1123595505618)" id="Label_56" />
+    <rect x="0" y="0" width="45.71428571428572" height="236.6292134831461" rx="4.0" ry="4.0" fill="rgb(16,185,129)" fill-opacity="0.8" stroke="rgb(16,185,129)" stroke-width="1.0" transform="translate(371.42857142857144,213.3707865168539)" id="Bar_6__78_" />
+    <rect x="0" y="0" width="20.0" height="3.0" fill="rgb(55,65,81)" stroke="none" transform="translate(384.28571428571433,203.3707865168539)" id="Label_78" />
+    <rect x="0" y="0" width="45.71428571428572" height="103.14606741573033" rx="4.0" ry="4.0" fill="rgb(245,158,11)" fill-opacity="0.8" stroke="rgb(245,158,11)" stroke-width="1.0" transform="translate(428.5714285714286,346.85393258426967)" id="Bar_7__34_" />
+    <rect x="0" y="0" width="20.0" height="3.0" fill="rgb(55,65,81)" stroke="none" transform="translate(441.42857142857144,336.85393258426967)" id="Label_34" />
+  </g>
+  <g id="layer-f78035b1-6b50-442e-8873-ba0106c6804e" data-name="Line Chart">
+    <path d="M 0.0,300.0 L 66.66666666666666,226.36363636363637 L 133.33333333333331,275.45454545454544 L 200.0,152.72727272727272 L 266.66666666666663,177.27272727272728 L 333.33333333333337,103.63636363636363 L 400.0,30.0" fill="none" stroke="rgb(16,185,129)" stroke-width="3.0" transform="translate(580.0,150.0)" id="Performance_Line" />
+    <circle cx="0" cy="0" r="5.0" fill="rgb(16,185,129)" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(580.0,450.0)" id="Point_1__30_" />
+    <circle cx="0" cy="0" r="5.0" fill="rgb(16,185,129)" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(646.6666666666666,376.3636363636364)" id="Point_2__45_" />
+    <circle cx="0" cy="0" r="5.0" fill="rgb(16,185,129)" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(713.3333333333333,425.45454545454544)" id="Point_3__35_" />
+    <circle cx="0" cy="0" r="5.0" fill="rgb(16,185,129)" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(780.0,302.72727272727275)" id="Point_4__60_" />
+    <circle cx="0" cy="0" r="5.0" fill="rgb(16,185,129)" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(846.6666666666666,327.27272727272725)" id="Point_5__55_" />
+    <circle cx="0" cy="0" r="5.0" fill="rgb(16,185,129)" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(913.3333333333334,253.63636363636363)" id="Point_6__70_" />
+    <circle cx="0" cy="0" r="5.0" fill="rgb(16,185,129)" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(980.0,180.0)" id="Point_7__85_" />
+  </g>
+  <g id="layer-3abb22aa-16c3-4162-9edb-bc4b16e76712" data-name="Pie Chart">
+    <polygon points="0.0,0.0 120.0,0.0 -70.53423027509676,97.0820393249937" fill="rgb(59,130,246)" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(1300.0,300.0)" id="Slice_Product_A__35__" />
+    <circle cx="0" cy="0" r="8.0" fill="rgb(59,130,246)" stroke="none" transform="translate(1368.098574960932,433.6509786282552)" id="Label_Product_A" />
+    <polygon points="0.0,0.0 -70.53423027509676,97.0820393249937 -97.0820393249937,-70.53423027509676" fill="rgb(16,185,129)" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(1300.0,300.0)" id="Slice_Product_B__25__" />
+    <circle cx="0" cy="0" r="8.0" fill="rgb(16,185,129)" stroke="none" transform="translate(1151.8467489107293,323.46516975603464)" id="Label_Product_B" />
+    <polygon points="0.0,0.0 -97.0820393249937,-70.53423027509676 37.082039324993666,-114.12678195541844" fill="rgb(245,158,11)" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(1300.0,300.0)" id="Slice_Product_C__20__" />
+    <circle cx="0" cy="0" r="8.0" fill="rgb(245,158,11)" stroke="none" transform="translate(1253.647450843758,157.34152255572698)" id="Label_Product_C" />
+    <polygon points="0.0,0.0 37.082039324993666,-114.12678195541844 114.12678195541842,-37.082039324993715" fill="rgb(239,68,68)" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(1300.0,300.0)" id="Slice_Product_D__15__" />
+    <circle cx="0" cy="0" r="8.0" fill="rgb(239,68,68)" stroke="none" transform="translate(1406.066017177982,193.93398282201787)" id="Label_Product_D" />
+    <polygon points="0.0,0.0 114.12678195541842,-37.082039324993715 120.0,-2.939152317953648e-14" fill="rgb(55,65,81)" fill-opacity="0.8" stroke="rgb(255,255,255)" stroke-width="2.0" transform="translate(1300.0,300.0)" id="Slice_Others__5__" />
+    <circle cx="0" cy="0" r="8.0" fill="rgb(55,65,81)" stroke="none" transform="translate(1448.1532510892707,276.5348302439653)" id="Label_Others" />
+  </g>
+  <g id="layer-377160cb-ccc7-4fde-a354-c03f82d1e539" data-name="Labels &amp; Axes">
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(80.0,150.0)" id="Grid_H_0" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(80.0,210.0)" id="Grid_H_1" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(80.0,270.0)" id="Grid_H_2" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(80.0,330.0)" id="Grid_H_3" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(80.0,390.0)" id="Grid_H_4" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(80.0,450.0)" id="Grid_H_5" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(80.0,150.0)" id="Grid_V_0" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(137.14285714285714,150.0)" id="Grid_V_1" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(194.28571428571428,150.0)" id="Grid_V_2" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(251.42857142857144,150.0)" id="Grid_V_3" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(308.57142857142856,150.0)" id="Grid_V_4" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(365.7142857142857,150.0)" id="Grid_V_5" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(422.8571428571429,150.0)" id="Grid_V_6" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(480.0,150.0)" id="Grid_V_7" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(580.0,150.0)" id="Grid_H_0" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(580.0,210.0)" id="Grid_H_1" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(580.0,270.0)" id="Grid_H_2" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(580.0,330.0)" id="Grid_H_3" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(580.0,390.0)" id="Grid_H_4" />
+    <line x1="0.0" y1="0.0" x2="400" y2="0.0" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(580.0,450.0)" id="Grid_H_5" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(580.0,150.0)" id="Grid_V_0" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(637.1428571428571,150.0)" id="Grid_V_1" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(694.2857142857143,150.0)" id="Grid_V_2" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(751.4285714285714,150.0)" id="Grid_V_3" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(808.5714285714286,150.0)" id="Grid_V_4" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(865.7142857142858,150.0)" id="Grid_V_5" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(922.8571428571429,150.0)" id="Grid_V_6" />
+    <line x1="0.0" y1="0.0" x2="0.0" y2="300" fill="none" stroke="rgb(229,231,235)" stroke-width="0.5" transform="translate(980.0,150.0)" id="Grid_V_7" />
+    <rect x="0" y="0" width="300.0" height="8.0" fill="rgb(55,65,81)" stroke="none" transform="translate(810.0,50.0)" id="Main_Title__Analytics_Dashboard" />
+    <rect x="0" y="0" width="120.0" height="4.0" fill="rgb(55,65,81)" fill-opacity="0.7" stroke="none" transform="translate(100.0,120.0)" id="Bar_Chart__Monthly_Sales" />
+    <rect x="0" y="0" width="140.0" height="4.0" fill="rgb(55,65,81)" fill-opacity="0.7" stroke="none" transform="translate(600.0,120.0)" id="Line_Chart__Performance" />
+    <rect x="0" y="0" width="110.0" height="4.0" fill="rgb(55,65,81)" fill-opacity="0.7" stroke="none" transform="translate(1200.0,120.0)" id="Pie_Chart__Market_Share" />
+  </g>
+</svg>

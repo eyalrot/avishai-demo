@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920.0" height="1080.0" viewBox="0 0 1920.0 1080.0">
+  <!-- Generated from: Basic Shapes Demo -->
+  <defs />
+  <g id="layer-9e9eece1-4252-49e7-9f8f-5bd806c791c0" data-name="Layer 1" />
+  <g id="layer-5f423665-b62c-499c-a820-7e20ff912d55" data-name="Background">
+    <rect x="0" y="0" width="1920.0" height="1080.0" fill="rgb(248,249,250)" stroke="none" id="Background" />
+  </g>
+  <g id="layer-2ebc5481-8846-4726-bee8-08424a449eb2" data-name="Basic Shapes">
+    <rect x="0" y="0" width="200.0" height="120.0" rx="10.0" ry="10.0" fill="rgb(255,50,50)" fill-opacity="0.8" stroke="rgb(0,0,0)" stroke-width="3.0" transform="translate(100.0,100.0)" id="Red_Rectangle" />
+    <circle cx="0" cy="0" r="80.0" fill="rgb(50,150,255)" fill-opacity="0.7" stroke="none" transform="translate(400.0,150.0)" id="Blue_Circle" />
+    <polygon points="0.0,120.0 100.0,120.0 50.0,20.0" fill="rgb(50,200,50)" stroke="rgb(0,0,0)" stroke-width="2.0" transform="translate(700.0,100.0)" id="Green_Triangle" />
+    <line x1="0.0" y1="0.0" x2="600.0" y2="100.0" fill="none" stroke="rgb(0,0,0)" stroke-width="5.0" transform="translate(100.0,300.0)" id="Diagonal_Line" />
+    <ellipse cx="0" cy="0" rx="120.0" ry="60.0" fill="rgb(255,200,50)" stroke="rgb(0,0,0)" stroke-width="2.0" transform="translate(150.0,450.0)" id="Yellow_Ellipse" />
+    <path d="M 0,0 C 0,-50 50,-50 50,0 C 50,50 100,50 100,0 L 150,0" fill="none" stroke="rgb(150,50,150)" stroke-width="4.0" transform="translate(500.0,400.0)" id="Purple_Wave" />
+  </g>
+  <g id="layer-740be5b2-1fec-4da5-8a2b-a53d9aa3cd04" data-name="Labels" />
+</svg>

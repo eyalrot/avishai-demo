@@ -1,0 +1,1639 @@
+{
+  "id": "a6bde883-7c49-4b21-9cd2-2f2b6f295457",
+  "canvas": {
+    "width": 2550.0,
+    "height": 3300.0,
+    "units": "px"
+  },
+  "background": {
+    "color": null,
+    "transparent": true,
+    "image_url": null,
+    "image_opacity": 1.0
+  },
+  "layer_manager": {
+    "root_group": {
+      "id": "999fed8f-de08-4ab5-8d0b-efb5fb191421",
+      "name": "Root",
+      "children": [
+        {
+          "id": "95ae98e7-45a8-4014-9178-34a52deeb58a",
+          "name": "Layer 1",
+          "shapes": [],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "999fed8f-de08-4ab5-8d0b-efb5fb191421",
+          "metadata": {}
+        },
+        {
+          "id": "3f685970-e827-475a-a1b4-fa106a3f26d3",
+          "name": "Background",
+          "shapes": [
+            {
+              "id": "9f697beb-6284-4c7d-871c-804ce252f609",
+              "type": "rectangle",
+              "geometry": {
+                "width": 2550.0,
+                "height": 3300.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 245,
+                    "g": 245,
+                    "b": 245
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 1.0
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 0.0,
+                "y": 0.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Background"
+            },
+            {
+              "id": "2b33b821-2445-4985-913a-a4fa60e71b51",
+              "type": "circle",
+              "geometry": {
+                "radius": 300.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 25,
+                    "g": 118,
+                    "b": 210
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.1
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": -150.0,
+                "y": -150.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Corner TL"
+            },
+            {
+              "id": "ab093254-297c-4fa3-b279-23a961150143",
+              "type": "circle",
+              "geometry": {
+                "radius": 400.0
+              },
+              "style": {
+                "fill": {
+                  "type": "solid",
+                  "color": {
+                    "r": 25,
+                    "g": 118,
+                    "b": 210
+                  },
+                  "linear_gradient": null,
+                  "radial_gradient": null,
+                  "pattern": null,
+                  "opacity": 0.1
+                },
+                "stroke": null,
+                "effects": null
+              },
+              "transform": {
+                "x": 2350.0,
+                "y": 3100.0,
+                "rotation": 0.0,
+                "scale_x": 1.0,
+                "scale_y": 1.0,
+                "skew_x": 0.0,
+                "skew_y": 0.0
+              },
+              "visible": true,
+              "locked": false,
+              "name": "Corner BR"
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "999fed8f-de08-4ab5-8d0b-efb5fb191421",
+          "metadata": {}
+        },
+        {
+          "id": "c097bbcf-2d03-417c-af98-4f830624d122",
+          "name": "Logo Elements",
+          "children": [
+            {
+              "id": "0796833d-cdd6-431a-b2f8-11656da53353",
+              "name": "Icon",
+              "shapes": [
+                {
+                  "id": "f1bd85f6-ec25-4dc8-a526-e6016ca3511f",
+                  "type": "circle",
+                  "geometry": {
+                    "radius": 150.0
+                  },
+                  "style": {
+                    "fill": {
+                      "type": "solid",
+                      "color": {
+                        "r": 25,
+                        "g": 118,
+                        "b": 210
+                      },
+                      "linear_gradient": null,
+                      "radial_gradient": null,
+                      "pattern": null,
+                      "opacity": 1.0
+                    },
+                    "stroke": null,
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1275.0,
+                    "y": 800.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Main Circle"
+                },
+                {
+                  "id": "309413d1-4c90-4027-b965-4e0564f704d6",
+                  "type": "circle",
+                  "geometry": {
+                    "radius": 60.0
+                  },
+                  "style": {
+                    "fill": {
+                      "type": "solid",
+                      "color": {
+                        "r": 255,
+                        "g": 152,
+                        "b": 0
+                      },
+                      "linear_gradient": null,
+                      "radial_gradient": null,
+                      "pattern": null,
+                      "opacity": 1.0
+                    },
+                    "stroke": null,
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1235.0,
+                    "y": 760.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Accent Circle"
+                },
+                {
+                  "id": "8920adac-86c9-462e-af9c-e82ae2399959",
+                  "type": "polygon",
+                  "geometry": {
+                    "points": [
+                      [
+                        0.0,
+                        0.0
+                      ],
+                      [
+                        60.0,
+                        0.0
+                      ],
+                      [
+                        30.0,
+                        -52.0
+                      ]
+                    ]
+                  },
+                  "style": {
+                    "fill": {
+                      "type": "solid",
+                      "color": {
+                        "r": 255,
+                        "g": 255,
+                        "b": 255
+                      },
+                      "linear_gradient": null,
+                      "radial_gradient": null,
+                      "pattern": null,
+                      "opacity": 0.9
+                    },
+                    "stroke": null,
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1305.0,
+                    "y": 820.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Triangle 1"
+                },
+                {
+                  "id": "00aca9f1-09d8-45d2-b8db-2883d11130c4",
+                  "type": "polygon",
+                  "geometry": {
+                    "points": [
+                      [
+                        0.0,
+                        0.0
+                      ],
+                      [
+                        60.0,
+                        0.0
+                      ],
+                      [
+                        30.0,
+                        52.0
+                      ]
+                    ]
+                  },
+                  "style": {
+                    "fill": {
+                      "type": "solid",
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "linear_gradient": null,
+                      "radial_gradient": null,
+                      "pattern": null,
+                      "opacity": 0.8
+                    },
+                    "stroke": null,
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1305.0,
+                    "y": 880.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Triangle 2"
+                }
+              ],
+              "z_index": 0,
+              "visible": true,
+              "locked": false,
+              "opacity": 1.0,
+              "blend_mode": "normal",
+              "parent_id": "c097bbcf-2d03-417c-af98-4f830624d122",
+              "metadata": {}
+            },
+            {
+              "id": "ef55dc35-e359-4257-90e7-53bfe15afb4e",
+              "name": "Company Text",
+              "shapes": [
+                {
+                  "id": "cbfbe6d0-644c-419a-b82e-ffe021bab5f8",
+                  "type": "rectangle",
+                  "geometry": {
+                    "width": 60.0,
+                    "height": 8.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 66,
+                        "b": 66
+                      },
+                      "width": 8.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1175.0,
+                    "y": 1000.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "T Horizontal"
+                },
+                {
+                  "id": "0f91f1cc-9b52-4b7a-9b53-65a136bb7448",
+                  "type": "rectangle",
+                  "geometry": {
+                    "width": 8.0,
+                    "height": 80.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 66,
+                        "b": 66
+                      },
+                      "width": 8.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1201.0,
+                    "y": 1000.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "T Vertical"
+                },
+                {
+                  "id": "59554bf9-d955-418d-977b-0b5ece0abeaa",
+                  "type": "rectangle",
+                  "geometry": {
+                    "width": 8.0,
+                    "height": 80.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 66,
+                        "b": 66
+                      },
+                      "width": 8.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1255.0,
+                    "y": 1000.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "E Vertical"
+                },
+                {
+                  "id": "a2fa90ec-576a-480a-bfcc-b1254b125457",
+                  "type": "rectangle",
+                  "geometry": {
+                    "width": 52.0,
+                    "height": 8.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 66,
+                        "b": 66
+                      },
+                      "width": 8.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1263.0,
+                    "y": 1000.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "E Top"
+                },
+                {
+                  "id": "1601d4b8-b9f0-4c09-8016-b9c0ea367fe8",
+                  "type": "rectangle",
+                  "geometry": {
+                    "width": 37.0,
+                    "height": 8.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 66,
+                        "b": 66
+                      },
+                      "width": 8.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1263.0,
+                    "y": 1040.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "E Middle"
+                },
+                {
+                  "id": "04d9e358-5a30-483a-a12a-6ef39d2c1658",
+                  "type": "rectangle",
+                  "geometry": {
+                    "width": 52.0,
+                    "height": 8.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 66,
+                        "b": 66
+                      },
+                      "width": 8.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1263.0,
+                    "y": 1072.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "E Bottom"
+                },
+                {
+                  "id": "f38fcff6-e021-456f-8657-a634acf41fa0",
+                  "type": "rectangle",
+                  "geometry": {
+                    "width": 200.0,
+                    "height": 4.0
+                  },
+                  "style": {
+                    "fill": {
+                      "type": "solid",
+                      "color": {
+                        "r": 255,
+                        "g": 152,
+                        "b": 0
+                      },
+                      "linear_gradient": null,
+                      "radial_gradient": null,
+                      "pattern": null,
+                      "opacity": 1.0
+                    },
+                    "stroke": null,
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1175.0,
+                    "y": 1100.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Accent Line"
+                }
+              ],
+              "z_index": 0,
+              "visible": true,
+              "locked": false,
+              "opacity": 1.0,
+              "blend_mode": "normal",
+              "parent_id": "c097bbcf-2d03-417c-af98-4f830624d122",
+              "metadata": {}
+            },
+            {
+              "id": "976aaa32-cd48-4884-990d-192a9aacd67b",
+              "name": "Tagline",
+              "shapes": [
+                {
+                  "id": "e1e6b46c-c91b-4ad8-bd58-5bf1b147a6a1",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1125.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 1 Char 1"
+                },
+                {
+                  "id": "577faa97-162e-4930-b639-21d5da089d2d",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1140.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 1 Char 2"
+                },
+                {
+                  "id": "97045cfa-d4d9-4fdd-9bbd-28ba8e6b4e00",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1155.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 1 Char 3"
+                },
+                {
+                  "id": "26afc800-9df2-4379-a1ce-38175bf6e8ab",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1170.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 1 Char 4"
+                },
+                {
+                  "id": "52f54c19-e7f1-449c-8385-46e0e9b3f156",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1185.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 1 Char 5"
+                },
+                {
+                  "id": "da397d71-08ef-46ea-a0a1-fac473b71235",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1200.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 1 Char 6"
+                },
+                {
+                  "id": "37575683-e6ad-4637-a8cd-3c63165193bb",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1215.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 1 Char 7"
+                },
+                {
+                  "id": "ad476b83-9d61-4e66-8414-6940d14206c0",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1230.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 1 Char 8"
+                },
+                {
+                  "id": "701f2dbc-3c29-4a60-8e5c-5dddac98c55b",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1245.0,
+                    "y": 1145.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 2 Char 1"
+                },
+                {
+                  "id": "8e512009-8cc3-42af-9ecc-6949b8235359",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1260.0,
+                    "y": 1145.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 2 Char 2"
+                },
+                {
+                  "id": "16799b41-9726-413f-be66-767cb09b1478",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1275.0,
+                    "y": 1145.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 2 Char 3"
+                },
+                {
+                  "id": "a473bb32-655b-40b8-ab01-d783dd52a146",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1290.0,
+                    "y": 1145.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 2 Char 4"
+                },
+                {
+                  "id": "d9484fdb-9981-4999-9b21-31850eb2e931",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1305.0,
+                    "y": 1145.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 2 Char 5"
+                },
+                {
+                  "id": "d90c4b3f-0cb8-4a9a-a158-25119d073e66",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1320.0,
+                    "y": 1145.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 2 Char 6"
+                },
+                {
+                  "id": "3edbf277-2dd6-4118-9cba-92c08fb386fa",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1335.0,
+                    "y": 1145.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 2 Char 7"
+                },
+                {
+                  "id": "6be88fa0-2329-4899-85ed-d7559fb98886",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1350.0,
+                    "y": 1145.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 2 Char 8"
+                },
+                {
+                  "id": "a0a3ea2c-fc4c-4585-b35b-dfe1d5c2b7c6",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1365.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 3 Char 1"
+                },
+                {
+                  "id": "d243c7bc-a70a-4dc4-9bda-ae434bdaac82",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1380.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 3 Char 2"
+                },
+                {
+                  "id": "69f87adf-fe1b-42f8-b951-b50c41eca8d3",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1395.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 3 Char 3"
+                },
+                {
+                  "id": "127a1457-bd0e-4e77-a08a-20afcf0abcc7",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1410.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 3 Char 4"
+                },
+                {
+                  "id": "9067b9b8-d463-4df3-ab60-9c404544b6e5",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1425.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 3 Char 5"
+                },
+                {
+                  "id": "8f85035e-90be-47c9-9751-fb6c88d362e2",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1440.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 3 Char 6"
+                },
+                {
+                  "id": "dd7d2a1d-55aa-4825-b1dd-ef9fa064089c",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1455.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 3 Char 7"
+                },
+                {
+                  "id": "6a0c0011-1be6-4d82-80b0-7bea800c4d80",
+                  "type": "line",
+                  "geometry": {
+                    "x1": 0.0,
+                    "y1": 0.0,
+                    "x2": 12.0,
+                    "y2": 0.0
+                  },
+                  "style": {
+                    "fill": null,
+                    "stroke": {
+                      "color": {
+                        "r": 66,
+                        "g": 165,
+                        "b": 245
+                      },
+                      "width": 3.0,
+                      "cap": "butt",
+                      "join": "miter",
+                      "miter_limit": 4.0,
+                      "dash_array": null,
+                      "dash_offset": 0.0,
+                      "opacity": 1.0
+                    },
+                    "effects": null
+                  },
+                  "transform": {
+                    "x": 1470.0,
+                    "y": 1140.0,
+                    "rotation": 0.0,
+                    "scale_x": 1.0,
+                    "scale_y": 1.0,
+                    "skew_x": 0.0,
+                    "skew_y": 0.0
+                  },
+                  "visible": true,
+                  "locked": false,
+                  "name": "Tagline Word 3 Char 8"
+                }
+              ],
+              "z_index": 0,
+              "visible": true,
+              "locked": false,
+              "opacity": 1.0,
+              "blend_mode": "normal",
+              "parent_id": "c097bbcf-2d03-417c-af98-4f830624d122",
+              "metadata": {}
+            }
+          ],
+          "z_index": 0,
+          "visible": true,
+          "locked": false,
+          "expanded": true,
+          "opacity": 1.0,
+          "blend_mode": "normal",
+          "parent_id": "999fed8f-de08-4ab5-8d0b-efb5fb191421",
+          "metadata": {}
+        }
+      ],
+      "z_index": 0,
+      "visible": true,
+      "locked": false,
+      "expanded": true,
+      "opacity": 1.0,
+      "blend_mode": "normal",
+      "parent_id": null,
+      "metadata": {}
+    },
+    "active_layer_id": "95ae98e7-45a8-4014-9178-34a52deeb58a"
+  },
+  "metadata": {
+    "title": "Corporate Logo Design",
+    "description": null,
+    "author": "Design Team",
+    "keywords": [],
+    "created_at": "2025-07-14T10:31:55.680626",
+    "modified_at": "2025-07-14T10:31:55.680900",
+    "version": "1.0",
+    "app_version": "0.1.0",
+    "custom_properties": {}
+  },
+  "view_settings": {
+    "zoom_level": 1.0,
+    "pan_x": 0.0,
+    "pan_y": 0.0,
+    "show_grid": false,
+    "show_rulers": true,
+    "show_guides": true,
+    "snap_to_grid": false,
+    "snap_to_guides": true,
+    "grid_size": 10.0,
+    "grid_color": {
+      "r": 200,
+      "g": 200,
+      "b": 200
+    }
+  },
+  "export_settings": {
+    "default_format": "svg",
+    "dpi": 96.0,
+    "quality": 0.9,
+    "include_metadata": true,
+    "transparent_background": true
+  }
+}

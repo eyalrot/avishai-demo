@@ -1,0 +1,84 @@
+# Task ID: 12
+# Title: Implement SVG export functionality as external module for converting documents to standard SVG format
+# Status: pending
+# Dependencies: 10
+# Priority: medium
+# Description: Create a dedicated SVG export module that converts the drawing library's document model to standard SVG format, supporting all shapes, styles, layers, and effects with proper attribute mapping and optimization.
+# Details:
+This task involves creating a comprehensive SVG export module:
+
+1. **SVG Export Module Structure** (`svg_export.py`):
+   - Create `SVGExporter` class that accepts a Document instance
+   - Implement XML generation using standard library's `xml.etree.ElementTree`
+   - Support SVG 1.1 standard for maximum compatibility
+   - Handle coordinate system transformations
+
+2. **Shape to SVG Element Mapping**:
+   - Rectangle → `<rect>` with x, y, width, height, rx, ry
+   - Circle → `<circle>` with cx, cy, r
+   - Ellipse → `<ellipse>` with cx, cy, rx, ry
+   - Triangle/Polygon → `<polygon>` with points attribute
+   - Path → `<path>` with d attribute (SVG path commands)
+   - Text → `<text>` with proper font attributes
+
+3. **Style to SVG Attribute Conversion**:
+   - Map Color objects to SVG color strings (#RRGGBB or rgba())
+   - Convert Fill properties to fill attributes
+   - Transform Stroke to stroke, stroke-width, stroke-dasharray
+   - Implement Effects as SVG filters (`<filter>`, `<feGaussianBlur>`, `<feDropShadow>`)
+
+4. **Layer Management**:
+   - Export layers as `<g>` groups with appropriate opacity
+   - Preserve layer ordering and visibility
+   - Apply blend modes using mix-blend-mode or filter compositing
+   - Include layer names as id attributes
+
+5. **Document Structure**:
+   - Generate proper SVG header with viewBox from document dimensions
+   - Create `<defs>` section for reusable elements (gradients, patterns, filters)
+   - Implement proper XML namespaces
+   - Add metadata tags for document properties
+
+6. **Optimization Features**:
+   - Merge identical styles into CSS classes
+   - Optimize path data using relative commands
+   - Remove redundant attributes
+   - Option to minify output
+
+7. **Export Options**:
+   ```python
+   class SVGExportOptions:
+       include_metadata: bool = True
+       optimize: bool = True
+       embed_fonts: bool = False
+       precision: int = 2  # Decimal places for coordinates
+       use_css: bool = True  # Group styles in <style> block
+   ```
+
+# Test Strategy:
+1. **Unit Tests for Shape Conversion**:
+   - Test each shape type converts to correct SVG element
+   - Verify all shape properties are properly mapped
+   - Check coordinate transformations are accurate
+
+2. **Style Export Testing**:
+   - Verify color formats (hex, rgb, rgba) are correctly exported
+   - Test stroke properties including dash patterns
+   - Validate gradient and pattern definitions
+   - Ensure effects generate proper filter elements
+
+3. **Layer Export Validation**:
+   - Check layers export as properly nested groups
+   - Verify opacity and blend modes are preserved
+   - Test layer visibility flags
+
+4. **Integration Tests**:
+   - Export complete documents from Task #11 examples
+   - Validate exported SVG against W3C SVG validator
+   - Open in multiple SVG viewers (browser, Inkscape, Illustrator)
+   - Compare visual output with expected results
+
+5. **Performance Tests**:
+   - Benchmark export time for documents with many shapes
+   - Measure file size with and without optimization
+   - Test memory usage during export process
