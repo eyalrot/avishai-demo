@@ -12,11 +12,13 @@ from .styles import (
     FillProperties, StrokeProperties, Effects
 )
 from .shapes import Shape, Transform, StyleProperties
+from .layers import Layer, LayerGroup, LayerManager
 
 __all__ = [
     "ShapeType", "BlendMode", "LineCap", "LineJoin", "FillType", "Units",
     "RGBColor", "RGBAColor", "HSLColor", "HexColor",
     "LinearGradient", "RadialGradient", "PatternFill",
     "FillProperties", "StrokeProperties", "Effects",
-    "Shape", "Transform", "StyleProperties"
+    "Shape", "Transform", "StyleProperties",
+    "Layer", "LayerGroup", "LayerManager"
 ]
