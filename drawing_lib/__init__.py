@@ -13,6 +13,10 @@ from .styles import (
 )
 from .shapes import Shape, Transform, StyleProperties
 from .layers import Layer, LayerGroup, LayerManager
+from .document import (
+    CanvasSize, BackgroundProperties, DocumentMetadata, ViewSettings,
+    ExportSettings, DrawingDocument
+)
 
 __all__ = [
     "ShapeType", "BlendMode", "LineCap", "LineJoin", "FillType", "Units",
@@ -20,5 +24,7 @@ __all__ = [
     "LinearGradient", "RadialGradient", "PatternFill",
     "FillProperties", "StrokeProperties", "Effects",
     "Shape", "Transform", "StyleProperties",
-    "Layer", "LayerGroup", "LayerManager"
+    "Layer", "LayerGroup", "LayerManager",
+    "CanvasSize", "BackgroundProperties", "DocumentMetadata", "ViewSettings",
+    "ExportSettings", "DrawingDocument"
 ]
