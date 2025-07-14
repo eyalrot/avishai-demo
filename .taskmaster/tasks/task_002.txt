@@ -1,0 +1,43 @@
+# Task ID: 2
+# Title: Core Enums and Type System
+# Status: pending
+# Dependencies: None
+# Priority: high
+# Description: Create foundational type system including enums and base validators
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 2.1. Create ShapeType enum [pending]
+### Dependencies: None
+### Description: Define enum for all supported shape types (Rectangle, Circle, Ellipse, Line, Polyline, Polygon, Path, Group)
+### Details:
+
+
+## 2.2. Define BlendMode and other core enums [pending]
+### Dependencies: None
+### Description: Create enums for blend modes, line caps, line joins, and other style properties
+### Details:
+
+
+## 2.3. Create utility types and base validators [pending]
+### Dependencies: None
+### Description: Set up common types, validation utilities, and custom exception classes
+### Details:
+
+
+## 2.4. Set up ID generation system [pending]
+### Dependencies: None
+### Description: Implement string-based ID system for performance optimization
+### Details:
+
+
+## 2.5. Run unit tests and commit to git [pending]
+### Dependencies: None
+### Description: Test type system and commit changes
+### Details:
+
+

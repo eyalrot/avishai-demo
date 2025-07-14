@@ -1,0 +1,394 @@
+{
+  "master": {
+    "tasks": [
+      {
+        "id": "1",
+        "title": "Project Setup & Infrastructure with Git",
+        "description": "Set up the project foundation including git repository, GitHub integration, Python environment, and basic project structure",
+        "status": "pending",
+        "priority": "high",
+        "subtasks": [
+          {
+            "id": "1.1",
+            "title": "Initialize git repository with user config",
+            "description": "Set up git with eyal.rot1@gmail.com and 'Eyal Rot' user config",
+            "status": "pending"
+          },
+          {
+            "id": "1.2",
+            "title": "Create GitHub repository using gh CLI",
+            "description": "Create remote repository using existing gh credentials",
+            "status": "pending"
+          },
+          {
+            "id": "1.3",
+            "title": "Create Python 3.12 virtual environment",
+            "description": "Set up project structure with Python 3.12 venv",
+            "status": "pending"
+          },
+          {
+            "id": "1.4",
+            "title": "Set up requirements.txt",
+            "description": "Add Pydantic, pytest, pytest-benchmark dependencies",
+            "status": "pending"
+          },
+          {
+            "id": "1.5",
+            "title": "Configure pytest and mypy",
+            "description": "Set up strict type checking and testing configuration",
+            "status": "pending"
+          },
+          {
+            "id": "1.6",
+            "title": "Create base package structure",
+            "description": "Create drawing_lib package with __init__.py files",
+            "status": "pending"
+          },
+          {
+            "id": "1.7",
+            "title": "Run unit tests and commit to git",
+            "description": "Execute initial tests and commit setup to repository",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "title": "Core Enums and Type System",
+        "description": "Create foundational type system including enums and base validators",
+        "status": "pending",
+        "priority": "high",
+        "subtasks": [
+          {
+            "id": "2.1",
+            "title": "Create ShapeType enum",
+            "description": "Define enum for all supported shape types (Rectangle, Circle, Ellipse, Line, Polyline, Polygon, Path, Group)",
+            "status": "pending"
+          },
+          {
+            "id": "2.2",
+            "title": "Define BlendMode and other core enums",
+            "description": "Create enums for blend modes, line caps, line joins, and other style properties",
+            "status": "pending"
+          },
+          {
+            "id": "2.3",
+            "title": "Create utility types and base validators",
+            "description": "Set up common types, validation utilities, and custom exception classes",
+            "status": "pending"
+          },
+          {
+            "id": "2.4",
+            "title": "Set up ID generation system",
+            "description": "Implement string-based ID system for performance optimization",
+            "status": "pending"
+          },
+          {
+            "id": "2.5",
+            "title": "Run unit tests and commit to git",
+            "description": "Test type system and commit changes",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "title": "Styling System Models",
+        "description": "Implement comprehensive styling system with colors, fills, strokes, and effects",
+        "status": "pending",
+        "priority": "medium",
+        "subtasks": [
+          {
+            "id": "3.1",
+            "title": "Implement Color and Gradient models",
+            "description": "Create Pydantic models for colors (RGB, RGBA, HSL) and gradients",
+            "status": "pending"
+          },
+          {
+            "id": "3.2",
+            "title": "Create FillProperties model",
+            "description": "Support solid colors, gradients, and pattern fills",
+            "status": "pending"
+          },
+          {
+            "id": "3.3",
+            "title": "Build StrokeProperties model",
+            "description": "Implement stroke with line caps, joins, dash patterns, and width",
+            "status": "pending"
+          },
+          {
+            "id": "3.4",
+            "title": "Add Effects models",
+            "description": "Create shadow, blur, and opacity effect models",
+            "status": "pending"
+          },
+          {
+            "id": "3.5",
+            "title": "Run unit tests and commit to git",
+            "description": "Test styling system and commit changes",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "title": "Transform System",
+        "description": "Implement geometric transformation system for positioning, rotation, scaling, and skewing",
+        "status": "pending",
+        "priority": "medium",
+        "subtasks": [
+          {
+            "id": "4.1",
+            "title": "Create Transform model",
+            "description": "Implement position (x, y), rotation, scale (uniform and non-uniform), and skew transformations",
+            "status": "pending"
+          },
+          {
+            "id": "4.2",
+            "title": "Implement transform validation",
+            "description": "Add constraints and validation for transform parameters",
+            "status": "pending"
+          },
+          {
+            "id": "4.3",
+            "title": "Add transform composition",
+            "description": "Support combining multiple transformations and matrix operations",
+            "status": "pending"
+          },
+          {
+            "id": "4.4",
+            "title": "Create transform serialization",
+            "description": "Implement JSON serialization/deserialization for transforms",
+            "status": "pending"
+          },
+          {
+            "id": "4.5",
+            "title": "Run unit tests and commit to git",
+            "description": "Test transform system and commit changes",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "title": "Component-Based Shape System",
+        "description": "Implement unified Shape model with component-based design using geometry validation",
+        "status": "pending",
+        "priority": "high",
+        "subtasks": [
+          {
+            "id": "5.1",
+            "title": "Create unified Shape model",
+            "description": "Implement Shape model with type field and geometry Dict[str, Any]",
+            "status": "pending"
+          },
+          {
+            "id": "5.2",
+            "title": "Implement geometry validation system",
+            "description": "Create @root_validator for type-based geometry validation",
+            "status": "pending"
+          },
+          {
+            "id": "5.3",
+            "title": "Add basic shape geometry schemas",
+            "description": "Define validation schemas for Rectangle, Circle, Ellipse geometries",
+            "status": "pending"
+          },
+          {
+            "id": "5.4",
+            "title": "Add linear shape geometry schemas",
+            "description": "Define validation schemas for Line, Polyline, Polygon geometries",
+            "status": "pending"
+          },
+          {
+            "id": "5.5",
+            "title": "Implement Path geometry",
+            "description": "Create complex curve geometry for Path shapes",
+            "status": "pending"
+          },
+          {
+            "id": "5.6",
+            "title": "Create Group geometry",
+            "description": "Implement shape collection geometry for Groups",
+            "status": "pending"
+          },
+          {
+            "id": "5.7",
+            "title": "Add geometry validation error handling",
+            "description": "Create custom exceptions and error messages for invalid geometry",
+            "status": "pending"
+          },
+          {
+            "id": "5.8",
+            "title": "Run unit tests and commit to git",
+            "description": "Test shape system and commit changes",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "title": "Layer Management System",
+        "description": "Implement layer hierarchy with z-ordering, visibility, and organization features",
+        "status": "pending",
+        "priority": "medium",
+        "subtasks": [
+          {
+            "id": "6.1",
+            "title": "Create Layer model",
+            "description": "Implement Layer model with shape collection and basic properties",
+            "status": "pending"
+          },
+          {
+            "id": "6.2",
+            "title": "Implement z-ordering and operations",
+            "description": "Add layer ordering, moving, and manipulation operations",
+            "status": "pending"
+          },
+          {
+            "id": "6.3",
+            "title": "Add layer visibility and locking",
+            "description": "Implement layer visibility toggles, locking, and opacity controls",
+            "status": "pending"
+          },
+          {
+            "id": "6.4",
+            "title": "Create LayerGroup for organization",
+            "description": "Implement folder-like layer groups for hierarchical organization",
+            "status": "pending"
+          },
+          {
+            "id": "6.5",
+            "title": "Run unit tests and commit to git",
+            "description": "Test layer system and commit changes",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "title": "Drawing Document Model",
+        "description": "Create top-level document model with canvas properties, metadata, and serialization",
+        "status": "pending",
+        "priority": "medium",
+        "subtasks": [
+          {
+            "id": "7.1",
+            "title": "Create Document model",
+            "description": "Implement Document model with canvas properties, size, and metadata",
+            "status": "pending"
+          },
+          {
+            "id": "7.2",
+            "title": "Implement background and units",
+            "description": "Add background properties and units system (px, mm, in, etc.)",
+            "status": "pending"
+          },
+          {
+            "id": "7.3",
+            "title": "Add version compatibility system",
+            "description": "Implement versioning and migration system for backwards compatibility",
+            "status": "pending"
+          },
+          {
+            "id": "7.4",
+            "title": "Create complete JSON serialization",
+            "description": "Implement full document serialization/deserialization with all components",
+            "status": "pending"
+          },
+          {
+            "id": "7.5",
+            "title": "Run unit tests and commit to git",
+            "description": "Test document system and commit changes",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "title": "Testing Infrastructure",
+        "description": "Build comprehensive test suite with component-based testing approach",
+        "status": "pending",
+        "priority": "medium",
+        "subtasks": [
+          {
+            "id": "8.1",
+            "title": "Set up pytest fixtures",
+            "description": "Create test fixtures for component-based testing with sample data",
+            "status": "pending"
+          },
+          {
+            "id": "8.2",
+            "title": "Write geometry validation tests",
+            "description": "Test all shape type geometry validation and error cases",
+            "status": "pending"
+          },
+          {
+            "id": "8.3",
+            "title": "Create serialization round-trip tests",
+            "description": "Test JSON serialization/deserialization for all models",
+            "status": "pending"
+          },
+          {
+            "id": "8.4",
+            "title": "Add edge cases and error handling tests",
+            "description": "Test invalid geometry, malformed data, and error conditions",
+            "status": "pending"
+          },
+          {
+            "id": "8.5",
+            "title": "Run unit tests and commit to git",
+            "description": "Execute full test suite and commit test infrastructure",
+            "status": "pending"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "title": "Performance Benchmarking System",
+        "description": "Implement performance testing and optimization tracking with pytest-benchmark",
+        "status": "pending",
+        "priority": "low",
+        "subtasks": [
+          {
+            "id": "9.1",
+            "title": "Set up pytest-benchmark",
+            "description": "Configure benchmarking with mixed shape datasets (1K/10K/100K objects)",
+            "status": "pending"
+          },
+          {
+            "id": "9.2",
+            "title": "Implement insert operation benchmarks",
+            "description": "Benchmark shape insertion performance at different scales",
+            "status": "pending"
+          },
+          {
+            "id": "9.3",
+            "title": "Create save/load performance tests",
+            "description": "Benchmark JSON serialization/deserialization performance",
+            "status": "pending"
+          },
+          {
+            "id": "9.4",
+            "title": "Generate performance reports",
+            "description": "Create detailed performance tracking and reporting system",
+            "status": "pending"
+          },
+          {
+            "id": "9.5",
+            "title": "Run unit tests and commit to git",
+            "description": "Execute benchmarks and commit performance system",
+            "status": "pending"
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "version": "1.0.0",
+      "created": "2025-07-14T09:00:00Z",
+      "lastModified": "2025-07-14T09:00:00Z",
+      "projectName": "Drawing Application Data Model",
+      "description": "Python module using Pydantic for drawing application data model with component-based design"
+    }
+  }
+}

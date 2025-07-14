@@ -1,0 +1,43 @@
+# Task ID: 6
+# Title: Layer Management System
+# Status: pending
+# Dependencies: None
+# Priority: medium
+# Description: Implement layer hierarchy with z-ordering, visibility, and organization features
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 6.1. Create Layer model [pending]
+### Dependencies: None
+### Description: Implement Layer model with shape collection and basic properties
+### Details:
+
+
+## 6.2. Implement z-ordering and operations [pending]
+### Dependencies: None
+### Description: Add layer ordering, moving, and manipulation operations
+### Details:
+
+
+## 6.3. Add layer visibility and locking [pending]
+### Dependencies: None
+### Description: Implement layer visibility toggles, locking, and opacity controls
+### Details:
+
+
+## 6.4. Create LayerGroup for organization [pending]
+### Dependencies: None
+### Description: Implement folder-like layer groups for hierarchical organization
+### Details:
+
+
+## 6.5. Run unit tests and commit to git [pending]
+### Dependencies: None
+### Description: Test layer system and commit changes
+### Details:
+
+

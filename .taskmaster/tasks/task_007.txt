@@ -1,0 +1,43 @@
+# Task ID: 7
+# Title: Drawing Document Model
+# Status: pending
+# Dependencies: None
+# Priority: medium
+# Description: Create top-level document model with canvas properties, metadata, and serialization
+# Details:
+
+
+# Test Strategy:
+
+
+# Subtasks:
+## 7.1. Create Document model [pending]
+### Dependencies: None
+### Description: Implement Document model with canvas properties, size, and metadata
+### Details:
+
+
+## 7.2. Implement background and units [pending]
+### Dependencies: None
+### Description: Add background properties and units system (px, mm, in, etc.)
+### Details:
+
+
+## 7.3. Add version compatibility system [pending]
+### Dependencies: None
+### Description: Implement versioning and migration system for backwards compatibility
+### Details:
+
+
+## 7.4. Create complete JSON serialization [pending]
+### Dependencies: None
+### Description: Implement full document serialization/deserialization with all components
+### Details:
+
+
+## 7.5. Run unit tests and commit to git [pending]
+### Dependencies: None
+### Description: Test document system and commit changes
+### Details:
+
+
